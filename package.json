@@ -1,0 +1,22 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrzali/RPG-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrzali/RPG-game/issues"
+  },
+  "homepage": "https://github.com/vrzali/RPG-game#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
